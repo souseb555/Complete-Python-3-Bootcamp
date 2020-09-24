@@ -8,7 +8,7 @@ This is a very helpfull course for all those, who is new to python programming l
 
 ## Assignments and Milestone Projects.
 
-All Assignments and Milestone projects are done in Juptyer note book.The installation and other guidances regarding jupyter notebook is well explained in the Course.
+All Assignments and Milestone projects are done in Juptyer note book.The installation and other guidances regarding jupyter notebooks are well explained in the Course.
 
 ### Milestone projects
 #### Tic Tac Toe
